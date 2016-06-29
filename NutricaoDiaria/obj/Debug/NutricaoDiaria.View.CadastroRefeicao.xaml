@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 xmlns:local="clr-namespace:NutricaoDiaria" 
+			 x:Class="NutricaoDiaria.CadastroRefeicao"
+			 Title="Cadastro de Refeição" >
+	
+	<StackLayout Padding="25">
+		
+
+		<Label Text="Descrição" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+
+		<Entry x:Name="entDescricao" Placeholder="Ex: file de frango" Text="{Binding Descricao}"/>
+
+		<StackLayout Orientation="Vertical">
+			<Label Text="Calorias: " VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+
+			<Label Text="{Binding Calorias, Mode=TwoWay}" x:Name="lblCalorias" />
+
+			<Slider Minimum="0" 
+					Maximum="1000" 	
+					x:Name="stpCalorias" 
+					VerticalOptions="CenterAndExpand"
+					Value="{Binding Calorias, Mode=TwoWay}"/>
+			
+		</StackLayout>	
+
+		<Button Text="Salvar" Command="{Binding SalvaRefeicao}"/>
+		
+	</StackLayout>
+</ContentPage>

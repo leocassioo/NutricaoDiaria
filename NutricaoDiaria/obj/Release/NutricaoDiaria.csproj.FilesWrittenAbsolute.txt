@@ -1,0 +1,17 @@
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.App.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.NutricaoDiariaPage.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.CadastroRefeicao.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.ListaRefeicao.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.App.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.NutricaoDiariaPage.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.CadastroRefeicao.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.ListaRefeicao.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/NutricaoDiaria.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/Xamarin.Forms.Core.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/Xamarin.Forms.Platform.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLitePCL.raw.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLitePCL.batteries.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLite-net.dll

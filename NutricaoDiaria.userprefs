@@ -1,0 +1,10 @@
+﻿<Properties StartupItem="iOS/NutricaoDiaria.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.NutricaoDiaria.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NutricaoDiaria.Droid PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+</Properties>
