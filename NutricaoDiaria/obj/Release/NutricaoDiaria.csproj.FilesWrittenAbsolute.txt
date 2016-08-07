@@ -15,3 +15,11 @@
 /Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLitePCL.raw.dll
 /Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLitePCL.batteries.dll
 /Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/bin/Release/SQLite-net.dll
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.CadastroRefeicao.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.ListaRefeicao.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.NutricaoDiariaPage.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.App.xaml.g.cs
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.CadastroRefeicao.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.ListaRefeicao.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.NutricaoDiariaPage.xaml
+/Users/leonardodecassio/Projects/NutricaoDiaria/NutricaoDiaria/obj/Release/NutricaoDiaria.View.App.xaml

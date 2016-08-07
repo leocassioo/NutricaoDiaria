@@ -45,6 +45,15 @@ namespace NutricaoDiaria
 
 			return new ObservableCollection<Refeicao>(conexao.Table<Refeicao>());
 		}
+
+		//Listar por data
+
+		//private ObservableCollection<Refeicao> GetDia() {
+
+		//	var db = new SQLiteAsyncConnection(R);
+
+		//	return new ObservableCollection<Refeicao>(conexao.ExecuteScalar<int>("SELECT * FROM Refeicao"));
+		//}
 	}
 }
 

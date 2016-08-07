@@ -12,13 +12,16 @@ namespace NutricaoDiaria
 		public string Descricao { get; set; }
 		public double Calorias { get; set; }
 
+		public DateTime Data { get; set; } 
+
 
 		public Refeicao() { }
 
-		public Refeicao(string descricao, double calorias)
+		public Refeicao(string descricao, double calorias, DateTime data)
 		{
 			this.Descricao = descricao;
 			this.Calorias = calorias;
+			this.Data = data;
 		}
 	}
 }

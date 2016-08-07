@@ -17,6 +17,8 @@
 										<StackLayout Orientation="Horizontal">
 										<Label Text="Calorias: " FontSize="10"/>
 										<Label Text="{Binding Calorias}" FontSize="10" />
+										<Label Text=" em " FontSize="10"/>
+										<Label Text="{Binding Data}" FontSize="10" />
 									</StackLayout>
 								</StackLayout>
 							</ViewCell.View>

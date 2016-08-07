@@ -11,6 +11,8 @@ namespace NutricaoDiaria
 		private string descricao;
 		private double calorias;
 
+		//public DateTime data;
+
 		public string Descricao { 
 			get {
 				return descricao;
@@ -53,11 +55,12 @@ namespace NutricaoDiaria
 					this.page.DisplayAlert("Erro", "Por favor preenchar os campos corretamente", "Ok");
 				}
 				else {
+					//calorias = calorias(Math.Round);
 
-					Refeicao refeicao = new Refeicao(descricao, calorias);
+					Refeicao refeicao = new Refeicao(descricao, calorias, DateTime.Now);
 					dao.Salvar(refeicao);
 
-					string msg = "A refeição " + descricao + " de " + calorias + " calorias foi salva com sucesso! ";
+					string msg = "A refeição " + descricao + " de " + calorias + " de " + DateTime.Now + " calorias foi salva com sucesso! ";
 
 					this.page.DisplayAlert("Savar Refeição", msg, "Ok");
 				}

@@ -8,12 +8,12 @@
 	<StackLayout Padding="25">
 		
 
-		<Label Text="Descrição" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+		<Label Text="Descrição" />
 
 		<Entry x:Name="entDescricao" Placeholder="Ex: file de frango" Text="{Binding Descricao}"/>
 
 		<StackLayout Orientation="Vertical">
-			<Label Text="Calorias: " VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+			<Label Text="Calorias: " />
 
 			<Label Text="{Binding Calorias, Mode=TwoWay}" x:Name="lblCalorias" />
 

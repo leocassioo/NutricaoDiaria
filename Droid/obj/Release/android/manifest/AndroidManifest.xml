@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="br.com.leocassioo.nutricaodiaria">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
-  <application android:label="Nutricao Diaria" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+  <application android:label="Nutricao Diaria" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="NutricaoDiaria.Droid" android:theme="@style/MyTheme" android:name="md574015e5dfede9cfccc7e76a75631644d.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

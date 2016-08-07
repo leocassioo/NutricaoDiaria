@@ -116,8 +116,29 @@ class MonoPackageManager_Resources {
 		"SQLite-net.dll",
 		"NutricaoDiaria.dll",
 		"System.ServiceModel.Internals.dll",
+		"System.Threading.dll",
+		"System.Runtime.dll",
+		"System.Collections.dll",
+		"System.Collections.Concurrent.dll",
+		"System.Diagnostics.Debug.dll",
+		"System.Reflection.dll",
+		"System.Linq.dll",
+		"System.Runtime.InteropServices.dll",
+		"System.Runtime.Extensions.dll",
+		"System.Reflection.Extensions.dll",
+		"System.Threading.Tasks.dll",
+		"System.ObjectModel.dll",
+		"System.Globalization.dll",
+		"System.Linq.Expressions.dll",
+		"System.ComponentModel.dll",
+		"System.Xml.ReaderWriter.dll",
+		"System.Dynamic.Runtime.dll",
+		"System.IO.dll",
+		"System.Text.RegularExpressions.dll",
+		"System.Resources.ResourceManager.dll",
+		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = null;
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
 }

@@ -1,6 +1,15 @@
-﻿<Properties StartupItem="iOS/NutricaoDiaria.iOS.csproj">
-  <MonoDevelop.Ide.ItemProperties.NutricaoDiaria.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupItem="Droid/NutricaoDiaria.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.NutricaoDiaria.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NutricaoDiaria/Data/RefeicaoDAO.cs">
+    <Files>
+      <File FileName="NutricaoDiaria/View/CadastroRefeicao.xaml" Line="16" Column="29" />
+      <File FileName="NutricaoDiaria/ViewModel/CadastroRefeicaoViewModel.cs" Line="10" Column="3" />
+      <File FileName="NutricaoDiaria/Model/Refeicao.cs" Line="20" Column="52" />
+      <File FileName="NutricaoDiaria/View/ListaRefeicao.xaml" Line="20" Column="45" />
+      <File FileName="NutricaoDiaria/View/ListaRefeicao.xaml.cs" Line="23" Column="25" />
+      <File FileName="NutricaoDiaria/Data/RefeicaoDAO.cs" Line="57" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
